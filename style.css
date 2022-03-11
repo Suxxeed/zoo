@@ -1,0 +1,36 @@
+html {
+  font-family: "Sawarabi Gothic", sans-serif;
+  color: #1D3C45;
+  background-color: #FFF1E1;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Corbel", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 15vw;
+  padding: 10vh 0;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 25%;
+          flex: 0 0 25%;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.full-height {
+  height: 80vh;
+}
+
+.display-none {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */
